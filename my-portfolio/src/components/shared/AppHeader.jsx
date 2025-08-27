@@ -3,8 +3,8 @@ import { FiMenu, FiMoon, FiSun, FiX } from 'react-icons/fi';
 import { Link } from 'react-router-dom';
 import useThemeSwitcher from '../../hooks/useThemeSwitcher';
 import HireMeModal from '../HireMeModal';
-import logoLight from '../../images/logo-light.png'; //'../../images/logo-light.svg';
-import logoDark from '../../images/logo-dark.png'; //'../../images/logo-dark.svg';
+import logoLight from '../../images/logo.png'; //'../../images/logo-light.svg';
+import logoDark from '../../images/logo.png'; //'../../images/logo-dark.svg';
 import { motion } from 'framer-motion';
 import Button from '../reusable/Button';
 
@@ -117,7 +117,7 @@ const AppHeader = () => {
 					<Link
 						to="/education"
 						className="block text-left text-lg text-primary-dark dark:text-ternary-light hover:text-secondary-dark dark:hover:text-secondary-light  sm:mx-4 mb-2 sm:py-2 border-t-2 pt-3 sm:pt-2 sm:border-t-0 border-primary-light dark:border-secondary-dark"
-						aria-label="Education"
+						aria-label="Bio"
 					>
 						Education
 					</Link>
@@ -131,7 +131,7 @@ const AppHeader = () => {
 					<Link
 						to="/projects"
 						className="block text-left text-lg text-primary-dark dark:text-ternary-light hover:text-secondary-dark dark:hover:text-secondary-light  sm:mx-4 mb-2 sm:py-2 border-t-2 pt-3 sm:pt-2 sm:border-t-0 border-primary-light dark:border-secondary-dark"
-						aria-label="Projects"
+						aria-label="Works"
 					>
 						Projects
 					</Link>
@@ -165,7 +165,7 @@ const AppHeader = () => {
 					<Link
 						to="/education"
 						className="block text-left text-lg text-primary-dark dark:text-ternary-light hover:text-secondary-dark dark:hover:text-secondary-light  sm:mx-4 mb-2 sm:py-2"
-						aria-label="Education"
+						aria-label="Bio"
 					>
 						Education
 					</Link>
@@ -179,7 +179,7 @@ const AppHeader = () => {
 					<Link
 						to="/projects"
 						className="block text-left text-lg text-primary-dark dark:text-ternary-light hover:text-secondary-dark dark:hover:text-secondary-light  sm:mx-4 mb-2 sm:py-2"
-						aria-label="Projects"
+						aria-label="Works"
 					>
 						Projects
 					</Link>

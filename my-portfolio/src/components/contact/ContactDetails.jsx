@@ -3,17 +3,17 @@ import { FiPhone, FiMapPin, FiMail } from 'react-icons/fi';
 const contacts = [
 	{
 		id: 1,
-		name: 'Hanam-si, Gyeonggi-do, Republic of Korea',
+		name: '아리수로50길 50 고래힐 상가 208호 414호',
 		icon: <FiMapPin />,
 	},
 	{
 		id: 2,
-		name: '603lsm@gmail.com',
+		name: 'jhk1300@naver.com',
 		icon: <FiMail />,
 	},
 	{
 		id: 3,
-		name: '+82 10 6410 2463',
+		name: '0507-1424-1305',
 		icon: <FiPhone />,
 	},
 ];

@@ -1,11 +1,11 @@
 // Import images
-import WorkImg1 from '../images/brands/Samsung.png';
-import WorkImg2 from '../images/brands/HyundaiMobis.png';
-import WorkImg3 from '../images/brands/hyundaiMipo.jpg';
-import WorkImg4 from '../images/brands/SamsungHeavyindustry.png';
-import TeachingImg1 from '../images/teaching1.png';
-import TeachingImg2 from '../images/teaching2.jpg';
-import TeachingImg3 from '../images/teaching3.jpg';
+// import WorkImg1 from '../images/brands/Samsung.png';
+// import WorkImg2 from '../images/brands/HyundaiMobis.png';
+// import WorkImg3 from '../images/brands/hyundaiMipo.jpg';
+// import WorkImg4 from '../images/brands/SamsungHeavyindustry.png';
+// import TeachingImg1 from '../images/teaching1.png';
+// import TeachingImg2 from '../images/teaching2.jpg';
+// import TeachingImg3 from '../images/teaching3.jpg';
 
 
 export const experienceData = {
@@ -20,7 +20,7 @@ export const experienceData = {
 			"- Development of data analytics with data pipeline, RCA, and dashboard.",
 			"- Development of Full-stack web, and tooling infrastructure.",
 		],
-		logo: WorkImg1
+		// logo: WorkImg1
 	},
 	{
 		id: 2,
@@ -32,7 +32,7 @@ export const experienceData = {
 			"- Abnormal detection with measurement and inspection.",
 			"- Managed, tracked and predicted main lots' manufacuturing quality state.",
 		],
-		logo: WorkImg1
+		// logo: WorkImg1
 	},
 	{
 		id: 3,
@@ -43,7 +43,7 @@ export const experienceData = {
 			"- Development of car’s steering system.",
 			"- Gear system optimization.",
 		],
-		logo: WorkImg2
+		// logo: WorkImg2
 	},
 	{
 		id: 4,
@@ -53,7 +53,7 @@ export const experienceData = {
 		description: [
 			"- Internship with drawings tools."
 		],
-		logo: WorkImg3
+		// logo: WorkImg3
 	},
 	{
 		id: 5,
@@ -63,7 +63,7 @@ export const experienceData = {
 		description: [
 			"- Internship with drawings tools."
 		],
-		logo: WorkImg4
+		// logo: WorkImg4
 	}
 	],
 	teaching : [
@@ -73,7 +73,7 @@ export const experienceData = {
       institution: "Samsung internal lecture",
       period: "2024 - present",
       description: "- Delivered practical training on ETL processes tailored to corporate environments.",
-	  logo: TeachingImg1
+	//   logo: TeachingImg1
 	},
     {
       id: 2,
@@ -81,7 +81,7 @@ export const experienceData = {
       institution: "Samsung internal lecture",
       period: "2024 - present",
       description: "- Conducted training on data analysis methods applied to semiconductor manufacturing data.",
-	  logo: TeachingImg2
+	//   logo: TeachingImg2
     },
 	{
       id: 3,
@@ -89,7 +89,7 @@ export const experienceData = {
       institution: "Samsung internal lecture",
       period: "2024 - present",
       description: "- Led training and hands-on workshops on building and utilizing Spotfire dashboards.",
-	  logo: TeachingImg3
+	//   logo: TeachingImg3
     },
 	],
 	publications : [

@@ -1,5 +1,5 @@
 // src/components/education/EducationBio.jsx
-import profileImage from "../../images/profile.jpeg";
+import profileImage from "../../images/profile1.png";
 import { useContext } from "react";
 import EducationContext from "../../context/EducationContext";
 

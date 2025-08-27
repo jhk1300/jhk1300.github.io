@@ -1,10 +1,18 @@
 export const aboutMeData = [
 	{
 		id: 1,
-		bio: 'I am a full-stack developer with extensive experience across AI projects, data, web, server, and database. My background also spans roles as a data scientist and in engineering tasks such as technical drawings, giving me a broad perspective at the intersection of science and engineering. My primary technology stack includes Python, Docker, FastAPI, LangGraph, and PyTorch, and I have worked on diverse projects such as RAG-LLM applications, deep learning image processing, ETL pipelines, web services, and visualization dashboards. I have experience leading projects, focusing on problem-solving with my team, and fostering effective collaboration.',
+		bio: '저는 정혜경이며, 도예가이자 교육자입니다. 수년간 흙을 빚으며 창작을 이어왔고, 현재는 서울 강동구에서 어린이들을 대상으로 한 도예 교육 학원을 운영하고 있습니다.',
 	},
 	{
 		id: 2,
-		bio: 'As a engineer, I strive to align with user requirements, address fundamental problems, and leverage emerging technologies such as AI. I believe in encouraging team collaboration and promoting the adoption of new technologies within projects. Looking forward, my ambition is to establish leadership in a specific domain by applying AI-driven solutions and to deliver services that create meaningful impact.',
+		bio: '저의 영감은 일상의 미학과 어린이들의 순수함에서 비롯됩니다. 일상 속에 숨겨진 아름다움과 아이들의 때묻지 않은 감정을 작품으로 표현하며, 감정이 생활 속에 스며들 수 있는 실용적인 도자기를 디자인하는 것을 선호합니다. 이러한 실용품들은 실제 사용을 전제로 하여 방수성과 내열성과 같은 기능적 품질을 유지하며, 삶의 작은 부분에서 따뜻한 울림을 전하고자 합니다.',
+	},
+	{
+		id: 3,
+		bio: '교육에서는 아이들이 순간의 감정을 자유롭게 표현하면서도 작품을 끝까지 완성할 수 있도록 돕는 데에 초점을 둡니다. 또한 다양한 재료와 기법을 통해 아이들의 상상력이 효과적으로 구현되도록 지도하며, 이러한 예술적 경험들이 학생들의 미래 삶에서 풍요로운 감각과 창의적 사고로 이어지기를 바랍니다.',
+	},
+	{
+		id: 4,
+		bio: '관심과 응원을 언제나 환영합니다. 편하게 연락 주시기 바랍니다.',
 	},
 ];
