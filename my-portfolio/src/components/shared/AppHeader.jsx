@@ -50,13 +50,13 @@ const AppHeader = () => {
 							{activeTheme === 'dark' ? (
 								<img
 									src={logoDark}
-									className="w-44"
+									className="w-42"
 									alt="Dark Logo"
 								/>
 							) : (
 								<img
 									src={logoLight}
-									className="w-44"
+									className="w-42"
 									alt="Dark Logo"
 								/>
 							)}
@@ -169,13 +169,13 @@ const AppHeader = () => {
 					>
 						Education
 					</Link>
-					<Link
+					{/* <Link
 						to="/experience"
 						className="block text-left text-lg text-primary-dark dark:text-ternary-light hover:text-secondary-dark dark:hover:text-secondary-light  sm:mx-4 mb-2 sm:py-2"
 						aria-label="Experience"
 					>
 						Experience
-					</Link>
+					</Link> */}
 					<Link
 						to="/projects"
 						className="block text-left text-lg text-primary-dark dark:text-ternary-light hover:text-secondary-dark dark:hover:text-secondary-light  sm:mx-4 mb-2 sm:py-2"
