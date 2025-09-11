@@ -687,6 +687,9 @@ Ensure the default browser behavior of the `hidden` attribute.
 .w-36 {
   width: 9rem;
 }
+.w-logo {
+  width: 40rem;
+}
 .w-7 {
   width: 1.75rem;
 }
